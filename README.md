@@ -5,7 +5,10 @@
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-yhm&layout=compact)-->
+<!--
+most use langs - 현재 결과없음
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-yhm&layout=compact)
+-->
 
 ![HyeMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-yhm&show_icons=true&theme=radical)
 <!--
