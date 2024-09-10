@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=#ffc0cb&height=300&section=header&text=HyeMin's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
