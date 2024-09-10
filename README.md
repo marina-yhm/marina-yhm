@@ -4,6 +4,8 @@
 </p>
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+![HyeMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina_yhm&show_icons=true&theme=radical)
 <!--
 **marina-yhm/marina-yhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
